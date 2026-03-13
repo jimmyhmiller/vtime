@@ -1,6 +1,6 @@
 [package]
 name = "vtime"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A verbose, human-readable replacement for the time command"
 license = "MIT"
