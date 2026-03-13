@@ -30,3 +30,6 @@ vtime [flags] <command> [args...]
 - `-d`, `--disk`: show disk I/O
 - `-h`, `--help`: show usage
 
+## License
+
+MIT. See [LICENSE](LICENSE).
