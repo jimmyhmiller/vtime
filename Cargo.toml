@@ -2,5 +2,14 @@
 name = "vtime"
 version = "0.1.0"
 edition = "2024"
+description = "A verbose, human-readable replacement for the time command"
+license = "MIT"
+repository = "https://github.com/jimmyhmiller/vtime"
+homepage = "https://github.com/jimmyhmiller/vtime"
+documentation = "https://docs.rs/vtime"
+exclude = [
+    ".github/**",
+    ".gitignore",
+]
 
 [dependencies]
